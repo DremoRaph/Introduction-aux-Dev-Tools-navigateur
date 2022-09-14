@@ -22,7 +22,7 @@ Pour commencer, il faut savoir comment ouvrir les *dev tools*. Sur Chromium, la 
 
 Une fois ouverte, portez votre attention au **coin supérieur droit**. Vous y trouverez à la fois les **notifications** provenant de la console s'il y a lieu (plus de détails là-dessus plus tard), l'icone d'écrou représentant le menu des **paramètres** et finalement, à sa droite, les 3 points cachant les **options supplémentaires**. Pour faire bref, les paramètres offrent beaucoup d'options de préférences (comme le thème sombre dans mon cas) tandis que les options supplémentaires offrent de changer le point d'ancrage de la fenêtre, un menu "d'aide" et d'autres options plus spécialisées.
 
-![Options](./src/options.png)
+![Options](./src/Options.png)
 
 Ensuite, dans le **coin supérieur gauche**, vous avez en ordre **l'outil de sélection** qui fait la même chose que le raccourci **CTRL + Shift + c**, **l'outil d'appareil(s) mobile** qui simule l'affichage en appareil mobile (sans rapetisser la fenêtre!) et ensuite la multitude d'**onglets de fonctionalitées**. Voici une description de base de chacuns de ces derniers:
 
